@@ -1,2 +1,2 @@
-# hexlet-java
-hexlet-java training
+﻿# hexlet-java
+Мой первый проект на Хекслете
